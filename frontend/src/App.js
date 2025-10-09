@@ -1,4 +1,4 @@
-import './App.css';
+ import './App.css';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import LandingPage from './pages/landing';
 import Authentication from './pages/authentication';
@@ -10,7 +10,7 @@ import History from './pages/history';
 function App() { 
   return (  
     <div className="App"> 
-    
+     
       <Router> 
 
         <AuthProvider>   
