@@ -5,7 +5,7 @@ It is a scalable real-time video conferencing web application inspired by platfo
 
 ---
 
-## Features
+## Features 
 
 - Real-time Video & Audio Calls using WebRTC  
 - Secure Authentication with bcrypt and crypto  
