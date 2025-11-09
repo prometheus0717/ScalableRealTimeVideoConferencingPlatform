@@ -4,7 +4,7 @@
 It is a scalable real time video conferencing web application inspired by platforms like Google Meet. It enables smooth virtual meetings with features like video/audio calls, instant messaging, authentication, and screen sharing. This project focuses on scalability and reliability while providing a user friendly experience.
  
  
-## Features 
+## Features  
 
 - Real-time Video & Audio Calls using WebRTC   
 - Secure Authentication with bcrypt and crypto  
