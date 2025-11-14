@@ -6,7 +6,7 @@ It is a scalable real time video conferencing web application inspired by platfo
    
 ## Features       
    
-- Real-time Video & Audio Calls using WebRTC     
+- Real-time Video & Audio Calls using WebRTC      
 - Secure Authentication with bcrypt and crypto       
 - Instant Messaging using Socket.io      
 - RESTful APIs with Express.js for backend functionality          
