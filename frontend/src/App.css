@@ -1,15 +1,6 @@
 
 
 
-}
-
-.landingMainContainer>div:nth-child(1) div[role='button'] a {
-
-
-.landingMainContainer>div:nth-child(2) img {
-  height: 70vh;
-  width: auto;
-}
 
 .navBar {
   display: flex;
