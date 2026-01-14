@@ -7,12 +7,7 @@
 
 .landingPageContainer nav .navlist {
   display: flex;
-  gap: 1.6rem;
-  cursor: pointer;
-
-}
-
-.landingMainContainer {
+  gap: 1.6re
   display: flex;
   justify-content: space-between;
   padding-inline: 3rem;
